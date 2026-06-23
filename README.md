@@ -4,7 +4,7 @@
 
 ## Download The Sponsor Prospectus for Cloud Native Valencia
 
-[Sponsor Prospectus](https://raw.githubusercontent.com/kcdtexas/sponsor-prospectus/main/KCD-TEXAS-2026-Sponsorship-Prospectus.pdf)
+[Sponsor Prospectus](https://raw.githubusercontent.com/CloudNativeValencia/sponsor/main/CNCG-Valencia-Sponsor-Prospectus.pdf)
 
 ## Cloud Native Valencia Prospectus Details
 
