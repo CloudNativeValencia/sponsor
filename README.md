@@ -4,7 +4,7 @@
 
 ## Download The Sponsor Prospectus for Cloud Native Valencia
 
-[Sponsor Prospectus](https://raw.githubusercontent.com/CloudNativeValencia/sponsor/main/CNCG-Valencia-Sponsor-Prospectus.pdf)
+[Sponsor Prospectus](https://raw.githubusercontent.com/CloudNativeValencia/sponsor/main/Cloud%20Native%20Valencia%20Sponsorship%20Prospectus%20-%20July_2026(compressed).pdf)
 
 ## Cloud Native Valencia Prospectus Details
 
